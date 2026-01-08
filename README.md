@@ -33,6 +33,10 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 1115：粉调棚拍的傲娇定格照 ](#prompt-1115)
+*   [案例 1114：一幅超写实的竖幅拼贴画 ](#prompt-1114)
+*   [案例 1113：纯欲风私房照 ](#prompt-1113)
+*   [案例 1112：互联网沙雕风格插画 ](#prompt-1112)
 *   [案例 1111：中国古代官服品级图谱 ](#prompt-1111)
 *   [案例 1110：中国传统男子冠帽等级制度拆解信息图 ](#prompt-1110)
 *   [案例 1109：一张精美的技能树成长路径信息图 ](#prompt-1109)
@@ -156,13 +160,139 @@
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
 
+<a id="prompt-1115"></a>
+## 案例 1115：粉调棚拍的傲娇定格照 (来源 [@MANISH1027512](https://x.com/MANISH1027512/status/2008857436069781592)) 模型：Nano banana pro
 
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1115.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-粉调棚拍的傲娇定格照">
+</div>
 
+**提示词：**
+```
+Photorealistic edit using the input person photo as strict identity reference: keep the same face, facial features, skin tone, hairstyle (color/bangs/length/volume), outfit and accessories unchanged (no face swap, no new person, no hair/outfit change). Only modify expression, subtle head angle/gaze, light body language, and background.
+Expression must be light tsundere: her boyfriend just complimented her / wants to film her; she acts annoyed like “stop it / don’t film me,” but it’s actually soft and sweet underneath. Facial actions: slightly averted gaze (side glance), a tiny eyebrow raise, lips gently pressed or a small pout, a barely-there restrained smirk (almost smiling but resisting), with a hint of shy pride; not real anger, not hostile, no big toothy grin.
+Body language: torso slightly turned away as if avoiding the camera, shoulders subtly rotated out; eyes glance back with a side-eye; one hand makes a gentle “stop / don’t film” block near the chest (light, half-hearted, not grabbing the phone).
+Clean soft studio realism, face in sharp focus. Replace background with a solid pink seamless studio backdrop (subtle gradient ok).
+Avoid identity changes, hair/outfit changes, exaggerated kawaii deformation, rage/aggressive vibe, text/watermarks/frames, extra fingers/deformed limbs.
+```
 
+**中文提示词：**
+```
+使用输入的人物照片作为严格的身份参考进行逼真编辑：保持相同的面部特征、肤色、发型（颜色/刘海/长度/蓬松度）、服装和配饰不变(no换脸，不添加新人物，不改变发型/服装）。仅修改表情、头部角度/眼神、轻微的肢体语言和背景。
+表情要带点轻傲娇：男友夸了她/想拍她；她表面上装作很恼火的样子，好像在说“别这样/别拍我”，但其实内心很温柔甜蜜。面部表情：眼神略微移开（侧目），眉毛轻轻挑起，嘴唇微微抿起或微微嘟嘴，嘴角带着一丝不易察觉的克制微笑（几乎要笑了却又忍住了），带着一丝羞涩的骄傲；不是真的生气，也不是敌意，更不会咧嘴大笑。
+肢体语言：躯干略微转向一边，仿佛在躲避镜头，肩膀微微向外旋转；眼睛斜睨着回头；一只手轻轻地在胸前做出“停止/不要拍摄”的手势（轻柔、漫不经心，没有抓住手机）。
+干净柔和的影棚写实风格，面部清晰对焦。将背景替换为纯粉色无缝影棚背景（可以有轻微的渐变）。
+避免身份改变、发型/服装改变、夸张的可爱变形、愤怒/攻击性氛围、文字/水印/边框、额外的手指/变形的四肢。
+```
 
+<a id="prompt-1114"></a>
+## 案例 1114：一幅超写实的竖幅拼贴画 (来源 [@hey_m_cherry](https://x.com/hey_m_cherry/status/2008485079308530042)) 模型：Nano banana pro
 
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1114.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一幅超写实的竖幅拼贴画">
+</div>
 
+**提示词：**
+```
+Ultra-realistic vertical collage of an angelic girl in five portrait strips, side by side, each showing a different emotion and lighting. She has delicate features, luminous skin, and flowing hair, with ethereal expressions: serene, joyful, contemplative, mystical, and fading into radiant light. Soft, flowing garments in airy fabrics, minimal accessories. Studio setup with cinematic soft lighting, background fading seamlessly between warm gold, pearlescent white, and pastel blue. High-key, gentle rim lights, subtle glow creating an angelic atmosphere. No props; focus on facial expression, ethereal aura, and lighting transitions. Close-up framing, tight on face, hyper-detailed, cinematic clarity, soft film grain, gentle shadows. Serene, mystical, emotionally layered tone. Color palette: soft gold, pearlescent white, pastel blue, subtle iridescent highlights, delicate shadows. Poster-like composition, timeless, angelic mood, ultra-realistic, high-resolution.
+```
 
+**中文提示词：**
+```
+一幅超写实的竖幅拼贴画，由五张并排的肖像条组成，描绘了一位天使般的女孩，每张都展现出不同的情绪和光影。她五官精致，肌肤透亮，秀发飘逸，表情空灵缥缈：宁静、喜悦、沉思、神秘，最终隐没在光芒之中。她身着轻盈飘逸的服饰，配饰极简。摄影棚布景采用电影级柔光，背景在暖金色、珠光白和粉蓝色之间无缝过渡。高调柔和的轮廓光，营造出微妙的光晕，带来天使般的氛围。画面中没有任何道具；重点在于面部表情、空灵的气质和光影的过渡。特写镜头聚焦于面部，细节丰富，画面清晰度极高，呈现电影般的质感，并带有柔和的胶片颗粒和淡雅的阴影。整体色调宁静、神秘，情感层次丰富。色彩运用：柔和的金色、珠光白、粉蓝色，以及微妙的虹彩高光和细腻的阴影。构图如同海报般精美，营造出永恒的天使般氛围，画面超写实，分辨率极高。
+```
+
+<a id="prompt-1113"></a>
+## 案例 1113：纯欲风私房照 (来源 [@joshesye](https://x.com/joshesye/status/2008846441481998548)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1113.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-纯欲风私房照">
+</div>
+
+**中文提示词：**
+```
+{
+  "visual_style": {
+    "color_palette": {
+      "dominant_colors": [
+        {
+          "name": "Screen Glow Blue / Violet",
+          "hex_approx": "#8A8ABD",
+          "description": "投射在面部的冷色光源（疑似手机或电脑屏幕光），营造出夜晚的清冷感和科技感。"
+        },
+        {
+          "name": "Deep Shadow Black",
+          "hex_approx": "#050505",
+          "description": "头发、衣物和背景暗部，奠定了低调（Low-key）的画面基础。"
+        },
+        {
+          "name": "Muted Grey",
+          "hex_approx": "#6E7278",
+          "description": "枕头的颜色，作为中性色平衡画面。"
+        },
+        {
+          "name": "Soft Skin Tone",
+          "hex_approx": "#EAC0B6",
+          "description": "被冷光照亮的肤色，呈现出一种苍白而通透的质感。"
+        }
+      ],
+      "tone": "Cold foreground, Dark background (冷调前景，暗调背景)",
+      "saturation": "Low (Desaturated / Muted colors) (低饱和度，色彩柔和)"
+    },
+    "lighting": {
+      "type": "Mixed Low-Light / Screen Light (混合弱光/屏幕光)",
+      "characteristics": [
+        "Cool light source from front (前方冷光源补光)",
+        "Soft fall-off (柔和的光线衰减)",
+        "Atmospheric darkness (环境暗调)"
+      ],
+      "shadows": "Deep, moody shadows surrounding the subject (主体周围环绕着深沉的情绪化阴影)"
+    },
+    "composition": {
+      "framing": "Close-up / Headshot (特写/大头照)",
+      "perspective": "Eye-level to slightly high angle (平视或略微俯视)",
+      "pose": "Lying prone on bed (俯卧在床上)",
+      "visual_focus": "Eyes and Lips (视觉焦点集中在眼睛和嘴唇)",
+      "depth_of_field": "Shallow (Background slightly blurred) (浅景深，背景微虚)"
+    },
+    "subject_styling": {
+      "outfit": "Sleepwear / Lingerie (睡衣/内衣风)",
+      "items": "Black lace camisole/slip dress (黑色蕾丝吊带)",
+      "hair_makeup": "Messy dark hair, 'woke up like this' look, glossy lips, flushed cheeks (凌乱黑发，'刚睡醒'感，水光唇，微红脸颊)",
+      "expression": "Sultry, intimate, gazing at camera, finger on lip (迷离、亲密、注视镜头、手指触唇)"
+    },
+    "environment": {
+      "setting": "Bedroom / Hotel Room (卧室/酒店房间)",
+      "props": "Grey patterned pillow (灰色图案枕头)",
+      "background": "Curtains, dark corner (窗帘，黑暗角落)"
+    },
+    "mood_atmosphere": {
+      "keywords": [
+        "Intimate",
+        "Late night",
+        "Sultry",
+        "Vulnerable",
+        "POV",
+        "Pure & Lusty (Chunyu)"
+      ],
+      "vibe_description": "典型的'纯欲'风格（Pure & Lusty），营造出一种深夜、私密、只有亲密关系视角（POV）才能看到的氛围。"
+    }
+  }
+}
+```
+
+<a id="prompt-1112"></a>
+## 案例 1112：互联网沙雕风格插画 (来源 [@VoxcatAI](https://x.com/VoxcatAI/status/2008795972764397597)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1112.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-互联网沙雕风格插画">
+</div>
+
+**中文提示词：**
+```
+互联网沙雕风格插画，[主题/主角/动作]。极简主义的涂鸦线条，Q版人物，表情夸张且滑稽（死鱼眼、流口水、神情呆滞）。
+画面中包含[填物品]，要求这些[填物品]呈现出违和的写实摄影质感，与卡通人物形成混合媒介的拼贴艺术效果。色彩明快，带有幽默感和嘲讽意味。背景是[填场景]。
+```
 
 <a id="prompt-1111"></a>
 ## 案例 1111：中国古代官服品级图谱 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/2008504651017318789)) 模型：Nano banana pro
